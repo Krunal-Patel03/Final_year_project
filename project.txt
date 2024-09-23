@@ -1,0 +1,6 @@
+json sever:
+
+json-server --watch data/db.json ./node_modules/ json-server-auth --port 8000
+
+website :
+npm run dev
